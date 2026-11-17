@@ -1,0 +1,6 @@
+{
+  "name": "Maison Levain — Artisan Bakery & Patisserie",
+  "description": "Artisanal sourdough hearth bakes, flaky morning viennoiserie, bespoke celebration cakes, and live daily oven schedules with online pre-ordering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
